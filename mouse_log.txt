@@ -1,0 +1,111 @@
+2021-07-08 16:24:52,913: Mouse clicked at (663, 327) with Button.left
+2021-07-08 16:24:53,921: Mouse moved to (663, 329)
+2021-07-08 16:24:53,931: Mouse moved to (663, 330)
+2021-07-08 16:24:53,941: Mouse moved to (665, 333)
+2021-07-08 16:24:53,947: Mouse moved to (668, 335)
+2021-07-08 16:24:53,957: Mouse moved to (672, 338)
+2021-07-08 16:24:53,963: Mouse moved to (676, 342)
+2021-07-08 16:24:53,973: Mouse moved to (679, 342)
+2021-07-08 16:24:53,983: Mouse moved to (682, 344)
+2021-07-08 16:24:53,987: Mouse moved to (688, 346)
+2021-07-08 16:24:53,997: Mouse moved to (691, 348)
+2021-07-08 16:24:54,003: Mouse moved to (695, 349)
+2021-07-08 16:24:54,013: Mouse moved to (700, 350)
+2021-07-08 16:24:54,023: Mouse moved to (704, 350)
+2021-07-08 16:24:54,027: Mouse moved to (707, 352)
+2021-07-08 16:24:54,037: Mouse moved to (710, 353)
+2021-07-08 16:24:54,044: Mouse moved to (716, 353)
+2021-07-08 16:24:54,054: Mouse moved to (721, 354)
+2021-07-08 16:24:54,063: Mouse moved to (725, 354)
+2021-07-08 16:24:54,067: Mouse moved to (731, 354)
+2021-07-08 16:24:54,079: Mouse moved to (737, 356)
+2021-07-08 16:24:54,083: Mouse moved to (742, 356)
+2021-07-08 16:24:54,094: Mouse moved to (744, 356)
+2021-07-08 16:24:54,104: Mouse moved to (748, 356)
+2021-07-08 16:24:54,110: Mouse moved to (754, 356)
+2021-07-08 16:24:54,120: Mouse moved to (759, 356)
+2021-07-08 16:24:54,124: Mouse moved to (765, 356)
+2021-07-08 16:24:54,134: Mouse moved to (771, 357)
+2021-07-08 16:24:54,144: Mouse moved to (777, 357)
+2021-07-08 16:24:54,150: Mouse moved to (784, 357)
+2021-07-08 16:24:54,160: Mouse moved to (790, 357)
+2021-07-08 16:24:54,163: Mouse moved to (797, 357)
+2021-07-08 16:24:54,174: Mouse moved to (804, 357)
+2021-07-08 16:24:54,184: Mouse moved to (810, 357)
+2021-07-08 16:24:54,190: Mouse moved to (817, 357)
+2021-07-08 16:24:54,199: Mouse moved to (823, 357)
+2021-07-08 16:24:54,205: Mouse moved to (828, 357)
+2021-07-08 16:24:54,216: Mouse moved to (833, 357)
+2021-07-08 16:24:54,226: Mouse moved to (839, 357)
+2021-07-08 16:24:54,229: Mouse moved to (843, 357)
+2021-07-08 16:24:54,239: Mouse moved to (848, 357)
+2021-07-08 16:24:54,245: Mouse moved to (853, 357)
+2021-07-08 16:24:54,255: Mouse moved to (856, 357)
+2021-07-08 16:24:54,265: Mouse moved to (858, 357)
+2021-07-08 16:24:54,270: Mouse moved to (859, 357)
+2021-07-08 16:24:54,279: Mouse moved to (860, 357)
+2021-07-08 16:24:54,295: Mouse moved to (862, 357)
+2021-07-08 16:24:54,305: Mouse moved to (864, 357)
+2021-07-08 16:24:54,311: Mouse moved to (865, 357)
+2021-07-08 16:24:54,321: Mouse moved to (866, 357)
+2021-07-08 16:24:54,325: Mouse moved to (867, 357)
+2021-07-08 16:24:54,335: Mouse moved to (867, 357)
+2021-07-08 16:24:54,345: Mouse moved to (868, 357)
+2021-07-08 16:24:54,361: Mouse moved to (868, 357)
+2021-07-08 16:24:54,749: Mouse clicked at (868, 357) with Button.right
+2021-07-08 16:24:55,622: Mouse moved to (869, 357)
+2021-07-08 16:24:55,642: Mouse moved to (869, 357)
+2021-07-08 16:24:55,647: Mouse moved to (868, 356)
+2021-07-08 16:24:55,658: Mouse moved to (867, 355)
+2021-07-08 16:24:55,667: Mouse moved to (866, 354)
+2021-07-08 16:24:55,671: Mouse moved to (864, 354)
+2021-07-08 16:24:55,683: Mouse moved to (863, 353)
+2021-07-08 16:24:55,687: Mouse moved to (862, 353)
+2021-07-08 16:24:55,697: Mouse moved to (862, 353)
+2021-07-08 16:24:55,709: Mouse moved to (861, 353)
+2021-07-08 16:24:55,713: Mouse moved to (860, 351)
+2021-07-08 16:24:55,729: Mouse moved to (860, 351)
+2021-07-08 16:24:55,739: Mouse moved to (859, 351)
+2021-07-08 16:24:55,743: Mouse moved to (857, 350)
+2021-07-08 16:24:55,753: Mouse moved to (857, 350)
+2021-07-08 16:24:55,769: Mouse moved to (855, 349)
+2021-07-08 16:24:55,779: Mouse moved to (855, 349)
+2021-07-08 16:24:55,793: Mouse moved to (854, 349)
+2021-07-08 16:24:56,940: Mouse moved to (851, 349)
+2021-07-08 16:24:56,956: Mouse moved to (850, 349)
+2021-07-08 16:24:56,972: Mouse moved to (849, 349)
+2021-07-08 16:24:56,986: Mouse moved to (848, 349)
+2021-07-08 16:24:56,994: Mouse moved to (848, 349)
+2021-07-08 16:24:57,020: Mouse moved to (847, 349)
+2021-07-08 16:24:57,034: Mouse moved to (847, 349)
+2021-07-08 16:24:57,070: Mouse moved to (846, 349)
+2021-07-08 16:24:57,075: Mouse moved to (845, 348)
+2021-07-08 16:24:57,086: Mouse moved to (845, 348)
+2021-07-08 16:24:57,141: Mouse moved to (844, 348)
+2021-07-08 16:24:57,597: Mouse scrolled at (844, 348)(0, 1)
+2021-07-08 16:26:29,299: Key released: Key.enter
+2021-07-08 16:26:29,396: Key released: Key.ctrl_l
+2021-07-08 16:26:32,824: Key pressed: Key.space
+2021-07-08 16:26:32,919: Key released: Key.space
+2021-07-08 16:26:34,919: Key pressed: Key.enter
+2021-07-08 16:26:35,036: Key released: Key.enter
+2021-07-08 16:26:35,987: Key pressed: Key.backspace
+2021-07-08 16:26:36,156: Key released: Key.backspace
+2021-07-08 16:26:36,547: Key pressed: Key.backspace
+2021-07-08 16:26:36,644: Key released: Key.backspace
+2021-07-08 16:26:37,676: Key pressed: Key.backspace
+2021-07-08 16:26:37,752: Key released: Key.backspace
+2021-07-08 16:26:38,692: Key pressed: Key.esc
+2021-07-08 16:26:38,788: Key released: Key.esc
+2021-07-08 16:26:38,788: Fim de execução
+2021-07-08 16:26:57,583: Key released: Key.enter
+2021-07-08 16:26:57,800: Key released: Key.ctrl_l
+2021-07-08 16:27:00,280: Key pressed: 'f'
+2021-07-08 16:27:00,408: Key released: 'f'
+2021-07-08 16:27:00,936: Key pressed: 'g'
+2021-07-08 16:27:01,052: Key released: 'g'
+2021-07-08 16:27:02,160: Key pressed: Key.enter
+2021-07-08 16:27:02,244: Key released: Key.enter
+2021-07-08 16:27:03,604: Key pressed: Key.esc
+2021-07-08 16:27:03,828: Key released: Key.esc
+2021-07-08 16:27:03,829: Fim de execução
